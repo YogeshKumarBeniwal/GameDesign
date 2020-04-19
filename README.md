@@ -1,2 +1,2 @@
-# GameDesigh
+# GameDesign
 A game prototype.
